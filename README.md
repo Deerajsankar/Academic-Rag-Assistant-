@@ -20,8 +20,5 @@ cp .env.example .env  # Add your OpenRouter API key
 python app.py
 ```
 
-## 🌐 Deployment
-Deploy on [Render](https://render.com) or [Railway](https://railway.app) using this project structure.
-
 ## 🔐 Get API Key
 Get a free OpenRouter key from: https://openrouter.ai
